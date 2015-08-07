@@ -1,9 +1,9 @@
 module PeopleFormAction
   def people_form_action(person)
       if person.new_record?
-        @action = "/people/new-person"
+        @action = "/people/new"
 	  else
-		@action = "/people/edit-person"
+		@action = "/people/edit"
       end
       @action
   end
