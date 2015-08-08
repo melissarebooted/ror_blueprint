@@ -1,0 +1,20 @@
+body{
+
+background-color: lavender;
+
+  }
+h1{
+  color: purple;
+  font-family: Verdana;
+
+}
+th{
+  color: red;
+}
+.new-person {
+  background-color:orange;
+}
+
+.edit-person {
+  background-color: blue;
+}
